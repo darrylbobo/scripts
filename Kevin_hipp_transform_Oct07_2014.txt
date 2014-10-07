@@ -1,0 +1,16 @@
+# this file is to record how to use kevin's code to do the tranformation of
+# of two image volume, and use the trasformation to warp the hipp mask
+
+
+Step 1: we need to git clone kevin's code
+
+Step 2: since kevin is using itk vtk cgal, we need to set up the enviorment; 
+       it is just ot use synaptic pakage manager to install libsighttoolkit4-dev
+      , and libvtk5-dev, and libcgal-dev;
+
+Step 3: then we can go to the code folder, install ccmake. then, type in :
+        ccmake ./   
+        type c;
+        type c;
+        type g.
+
