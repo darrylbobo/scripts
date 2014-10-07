@@ -13,4 +13,4 @@ Step 3: then we can go to the code folder, install ccmake. then, type in :
         type c;
         type c;
         type g.
-
+        then, type make
